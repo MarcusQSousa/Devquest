@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+}
+
+.tabela{
+    margin-bottom: 30px;
+}
+
+.tabela td, th{
+    padding: 5px 10px 0;
+    background-color: #424250;
+    color: #ffffff;
+}
+
+.roupa th{
+    background-color: #BB86FC;
+}
+
+.casa th{
+    background-color: #00C4B4;
+}
